@@ -1,7 +1,0 @@
-jiraHost: "${{ secrets.JIRA_HOST }}"
-jiraEmail: "${{ secrets.JIRA_EMAIL }}"
-jiraToken: "${{ secrets.JIRA_TOKEN }}"
-
-# Regex que identifica as histórias do seu Jira.
-# Exemplo: se o Jira usa "IROBOT-123" ou "PROJ-45", personalize aqui.
-jiraTicketRegex: "(SFSVC-[0-9]+)"
