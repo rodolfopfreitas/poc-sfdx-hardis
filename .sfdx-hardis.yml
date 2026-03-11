@@ -1,6 +1,4 @@
 jiraHost: ${{ secrets.JIRA_HOST }}
-jiraEmail: ${{ secrets.JIRA_EMAIL }}
-jiraToken: ${{ secrets.JIRA_TOKEN }}
 jiraTicketRegex: (SFSVC-[0-9]+)
 projectName: demohardis
 developmentBranch: dodev
