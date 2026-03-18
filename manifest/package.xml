@@ -3,6 +3,7 @@
     <version>60.0</version>
     <types>
         <members>Account.test_merge_2__c</members>
+        <members>Account.Test_SFDX_Hardis_v1__c</members>
         <name>CustomField</name>
     </types>
 </Package>
