@@ -4,6 +4,7 @@
     <types>
         <members>Account.test_merge_2__c</members>
         <members>Account.Test_SFDX_Hardis_v1__c</members>
+        <members>Account.Test_SFDX_Hardis_v2__c</members>
         <name>CustomField</name>
     </types>
 </Package>
